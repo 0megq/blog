@@ -3,5 +3,5 @@ layout: default
 title: About
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
+# About me
+I am Nick, a hobbyist game dev. There isn't much here for now, but soon there will be.
