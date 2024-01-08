@@ -4,6 +4,5 @@
 
 social:
   - {icon: 'github', type: "brand", link: 'https://www.github.com/0megq'}
-  
   - {icon: 'envelope', type: "solid", link: 'mailto:nvatanshenas55@gmail.com'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
