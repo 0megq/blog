@@ -35,4 +35,5 @@ related-posts:
   title: "Related Posts"
 
 #Comments
+github-issues-link: https://github.com/0megq/blog/issues?q=blog
 comments: true
