@@ -16,7 +16,7 @@ Two weeks into learning I created my first project, a simple snake clone that I 
 #### Reflection and Realization
 After creating the CSV parser, I started a new project to rebuild the habit tracker, but just a few days in I took a moment to think about what exactly I was doing. I realized that I was no longer working on games, I was making an app which wasn't teaching me the skills I intended to learn in the first place. There was no system of entities, z layers, physics, and whatnot in the habit tracker. I decided to abandon the project. I didn't want to go back to game engines just yet, but I still didn't find the value I was seeking in the little habit tracker I was making, so I decided that I would create a simple 2d game. I still haven't decided what exactly I want to create, but I am looking to just make something simple that forces me to implement physics, some system of entities, and some data structures here and there.
 
-# Why This Blog?
+# Why A Blog?
 You're probably asking what this blog has to do with any of that. I am starting blog to keep track of my progress and history while building this 2d game using C and Raylib. By doing this, my goal is to keep myself accountable with weekly blog posts, and also reflect every week on what I accomplished and learned through the project. It's sort of just a text devlog, because personally I find video devlogs to take too much time for me to make.
 
 # About Me
