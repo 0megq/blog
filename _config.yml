@@ -1,8 +1,8 @@
 # Site settings
 title: "Nick Vatanshenas"
 description: "Game Dev"
-url:  "https://0megq.github.io/website-test/" # Actual base url of the website
-baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+url:  "https://0megq.github.io/" # Actual base url of the website
+baseurl: "website-test/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Nick Vatanshenas"
   email: "nvatanshenas55@gmail.com"
