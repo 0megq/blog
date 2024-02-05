@@ -3,8 +3,8 @@ title: What Is This? Who Am I?
 layout: post
 categories: [Introduction, Reflection, ]
 tags: [introduction, reflection]
-description: "A little bit about this website"
-customexcerpt: "Not sure how you got here, but you're here now. Here's a little bit about this blog and me."
+description: "Not sure how you got here, but you're here now. Here's a little bit about this blog and me"
+customexcerpt: "I'd like to explain what this blog is about and who I am exactly. But first, I want to explain what got me here."
 ---
 I'd like to explain what this blog is about and who I am exactly. But first, I want to explain what got me here. I want to explain what got me to make this blog.
 # Context
